@@ -37,3 +37,17 @@ p {
   font-size: 18px;
   color: white;
 }
+
+.footer {
+  background-color: dimgray;
+  text-align: left;
+}
+
+.footer_link {
+  color: white;
+}
+
+#copyright {
+  font-size: 11px;
+  color: white;
+}
